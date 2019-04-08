@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/@seannorton/tiny.svg)](https://www.npmjs.com/package/@seannorton/tiny) ![npm bundle size](https://img.shields.io/bundlephobia/min/@seannorton/tiny.svg?label=minified%20size)
+[![npm](https://img.shields.io/npm/v/@seannorton/tiny.svg)](https://www.npmjs.com/package/@seannorton/tiny)  [![npm bundle size](https://img.shields.io/bundlephobia/min/@seannorton/tiny.svg?label=minified%20size)](https://github.com/SeanMNorton/tiny)
 
 Removes all spaces from a string
 
