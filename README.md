@@ -10,7 +10,7 @@ $ npm install @seannorton/tiny
 
 # Usage
 
-```
+```js
 const tiny = require('@seannorton/tiny');
 
 tiny('So much space!');
